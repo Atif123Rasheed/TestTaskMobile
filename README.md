@@ -1,6 +1,6 @@
 # TestTaskMobile
 
-Test task for an online electronics store. The application consists of three modules, developed using a clean architecture and in accordance with the principles of SOLID. The application is built on one activity and six fragments. At startup, a splash screen appears.
+Test task for an online electronics store. The application consists of three modules, developed using a clean architecture and according to the principles of SOLID. The application is built on one activity and six fragments. At startup, a splash screen appears.
 
 Main screen. Select Category - when you click on the icon, it changes color; Hot sales - the carousel changes the element when swiping to the right; BestSeller - product list; Filter options - drop-down list of brand and size.
 
