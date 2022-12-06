@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citiesList">
+        <item>Chiapas, Gro</item>
+        <item>Veracruz, Gro</item>
+        <item>Zihuatanejo, Gro</item>
+    </string-array>
+
+    <string-array name="brands">
+        <item>All brands</item>
+        <item>Apple</item>
+        <item>Motorola</item>
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+    </string-array>
+
+    <string-array name="brandsList">
+        <item>All brands</item>
+        <item>Iphone</item>
+        <item>Motorola</item>
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+    </string-array>
+
+    <array name="pricesList">
+        <item>All prices</item>
+        <item>$0 - $1000</item>
+        <item>$1001 - $2000</item>
+        <item>$2001 - $3000</item>
+        <item>$3001 - $4000</item>
+        <item>$4001 - $5000</item>
+        <item>$5001 - $6000</item>
+        <item>$6001 - $7000</item>
+        <item>$7001 - $8000</item>
+        <item>$8001 - $9000</item>
+        <item>$9001 - $10000</item>
+    </array>
+</resources>
